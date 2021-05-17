@@ -30,6 +30,7 @@ Abd		            No		       Некорректные данные
 GIMP, Ubuntu Software Center, BitTorrent до 6 версии, Blender
 Игры: Battlefield 2, World of Tanks, Civilization IV, EVE Online.
 Компании использующие Python:
+
 •	Alphabet использует язык для скраппинга в поисковике Google и реализации сервиса YouTube;
 •	One Laptop Per Child — для разработки интерфейса и модели функционирования;
 •	BitTorrent — для реализации сетей peer-to-peer;
